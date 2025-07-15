@@ -1,0 +1,13 @@
+body{
+    text-align: center;
+}
+
+.day{
+   background-color: orange;
+   color: black;
+}
+
+.night{
+  background-color: black;
+  color: white;
+}
